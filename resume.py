@@ -1,5 +1,12 @@
+from dotenv import load_dotenv
+import os
 import openai
-openai.api_key = "ENTER YOUR OPEN API KEY"
+
+# Load environment variables from the .env file
+load_dotenv()
+
+# Load API KEY from .env file
+api_key = os.getenv("OPENAI_API_KEY")
 
 # prompt (assuming that you entered below your resume and job desciption)
 prompt = f"""
