@@ -9,7 +9,7 @@ Below, I have included the details of the job offer as well as my CV, and I woul
 
 Please identify the key qualifications and responsibilities in the job description and assess how my background supports them. Highlight the specific skills, achievements, or experiences from my CV that are most relevant to the role.
 
-Also, write me a concise cover letter (maximum 30 lines) to support my application for this position, using French if the job description is in French, considering that I am a man and my name is Ali Jnifen.
+Also, write me a concise cover letter (maximum 30 lines) to support my application for this position, considering that my name is Ali Jnifen.
 ---
 
 
