@@ -16,36 +16,35 @@ Below, I have included the details of the job offer as well as my CV, and I woul
 
 Please identify the key qualifications and responsibilities in the job description and assess how my background supports them. Highlight the specific skills, achievements, or experiences from my CV that are most relevant to the role.
 
-Also, write me a concise cover letter (maximum 30 lines) to support my application for this position, considering that my name is Ali Jnifen.
+Also, write me a concise cover letter (maximum 30 lines) to support my application for this position, considering that my name is "Add your name here".
 ---
 
 
 
 ### Here is the job description to analyze and identify all relevant requirements and skills for the application:
 THE JOB DESCRIPTION :
-Malt is Europe's leading freelancing platform with one clear mission: to give people the freedom to choose who they work with. Co-founded in 2013 by Vincent Huguet, with Alexandre Fretti as o-CEO from 2022 to 2024, Malt is a tech company with a human approach that helps companies and freelancers make the perfect match.
+X is Europe's leading freelancing platform with one clear mission: to give people the freedom to choose who they work with. Co-founded in 2013, X is a tech company with a human approach that helps companies and freelancers make the perfect match.
 
-Malt is a marketplace that embraces a community of over 700,000 freelancers and over 70,000 clients, ranging from small and medium-sized enterprises to large corporations. More than just a connector, our marketplace streamlines freelancer-client communications, simplifies administrative and legal tasks, expedites invoicing and payments, and so much more.
+It is a marketplace that embraces a community of over 700,000 freelancers and over 70,000 clients, ranging from small and medium-sized enterprises to large corporations. More than just a connector, our marketplace streamlines freelancer-client communications, simplifies administrative and legal tasks, expedites invoicing and payments, and so much more.
 
-We are all about giving both freelancers and companies choice and added peace of mind, so that every experience on Malt is nothing less than (inter)stellar. The launch of Malt Strategy in 2023 enabled Malt to broaden its scope by offering the expertise of a network of top independent consultants and transition managers, to better support companies from the strategy to the implementation of ambitious projects.
+We are all about giving both freelancers and companies choice and added peace of mind, so that every experience on X is nothing less than (inter)stellar.
 
-✨ Malt is also…
+✨ X is also…
 
 - a tech company with a human approach
 
-- a company with a strong culture fueled by 700 Malters from 40+ nationalities, working from 9 countries all around Europe - Germany, Belgium, United Arab Emirates, Spain, France, Netherlands, Nordic countries, United Kingdom, and Switzerland.
+- a company with a strong culture fueled by 700 employees from 40+ nationalities, working from 9 countries all around Europe - Germany, Belgium, United Arab Emirates, Spain, France, Netherlands, Nordic countries, United Kingdom, and Switzerland.
 
 - committed to creating a safe and inclusive space where every employee can thrive both personally and professionally
 
 - committed to equality and diversity (50% of People managers are women)
 
-- a company with strong career path policies allowing all Malters to develop and grow equally
+- a company with strong career path policies allowing all employees to develop and grow equally
 
-- backed by renowned investors including ISAI, Serena, Eurazeo Growth, Goldman Sachs and BPI France
 
-Join us on Planet Malt, we need you to help us write this next chapter! 🪐
+Join us on Planet, we need you to help us write this next chapter! 🪐
 
-At Malt we believe that Ambition is the Way, so all lists of missions and responsibilities are non-exhaustive.
+At X we believe that Ambition is the Way, so all lists of missions and responsibilities are non-exhaustive.
 
 Explore your future career  🔭
 
@@ -86,38 +85,37 @@ Languages: Fluency in English and French as you will work in both languages
 
 ## Expérience Professionnelle
 
-### Business Analyst Salesforce, ICOM by KPMG (Sanofi)  
+### Consultant CRM, Société de Conseil International (Industrie Pharmaceutique)  
 **Jan 2024 – Sep 2024**  
-- **Ateliers de découverte et collecte de besoins** : Animation d’ateliers de découverte avec les parties prenantes pour définir les processus métiers et recueillir les besoins fonctionnels et techniques. 
-- **Conception et déploiement de solutions Salesforce** : Responsable de la mise en place de l’environnement CRM pour 3 pays (Pologne, Roumanie, Grèce) afin de répondre aux besoins des utilisateurs.
-- **Documentation des exigences** : Rédaction des exigences fonctionnelles et intégration des données pour assurer la livraison du projet.
-- **Collaboration avec l’équipe technique et métier** : Travail conjoint avec l’équipe métier et technique pour garantir que les configurations respectent les exigences fonctionnelles et techniques.
-- **Démo des solutions** : Présentation des solutions développées au client pour s'assurer que les besoins sont respectés et que la solution finale est alignée avec leurs attentes.
-- **Suivi des formations** : Accompagnement de proximité dans la formation pour le CRM déployé dans 5 pays (Pologne, Roumanie, Grèce, Brésil et Mexique).
+- **Ateliers de découverte et collecte de besoins** : Animation d’ateliers avec les parties prenantes pour définir les processus métiers et recueillir les besoins fonctionnels et techniques.  
+- **Conception et déploiement de solutions CRM** : Mise en place d'un environnement CRM pour plusieurs pays afin de répondre aux besoins des utilisateurs.  
+- **Documentation des exigences** : Rédaction des exigences fonctionnelles et intégration des données pour assurer la livraison du projet.  
+- **Collaboration technique et métier** : Coordination avec les équipes métier et technique pour garantir des configurations conformes aux attentes.  
+- **Démo des solutions** : Présentation des solutions développées aux parties prenantes pour valider leur adéquation aux besoins.  
+- **Suivi des formations** : Accompagnement des utilisateurs finaux lors du déploiement du CRM dans différents pays.  
 
-### Business Analyst Salesforce, Talan (LMG | MNH Assurance)  
+### Consultant CRM, Cabinet de Conseil en Transformation Digitale (Assurance)  
 **Nov 2022 – Dec 2023**  
-- **Analyse des besoins et traduction en user stories** : Participation active à l'analyse des besoins métiers et traduction en spécifications fonctionnelles et techniques sous forme de user stories pour les équipes techniques.
-- **Ateliers de découverte et collecte de besoins** : Animation d’ateliers avec les parties prenantes pour définir les processus métiers et recueillir les besoins fonctionnels et techniques.
-- **Conception de solutions CRM et Marketing** : Définition de solutions Salesforce adaptées aux besoins des clients (parcours commercial, conversion de pistes en opportunités, solution de parrainage).
-- **Gestion de projet Agile** : Animation des réunions journalières et hebdomadaires pour le suivi des projets et des livrables durant les daily, weekly, copil et coproj.
-- **Collaboration avec les équipes techniques** : Coordination avec les développeurs pour garantir une bonne configuration des solutions.
-- **Contrôle qualité** : Vérification des livrables techniques avec l’équipe pour assurer la conformité et la qualité des solutions déployées.
+- **Analyse des besoins et user stories** : Identification des besoins métiers et traduction en user stories pour les équipes techniques.  
+- **Ateliers de collecte des besoins** : Animation d’ateliers pour définir les processus métiers et recueillir les besoins fonctionnels.  
+- **Développement de solutions CRM** : Conception de parcours utilisateurs et déploiement de fonctionnalités CRM adaptées (gestion commerciale, parrainage, etc.).  
+- **Gestion Agile** : Suivi des projets via des réunions régulières (daily, weekly, copil, coproj).  
+- **Collaboration technique** : Coordination avec les développeurs pour garantir la qualité des livrables.  
+- **Contrôle qualité** : Validation des livrables techniques avant mise en production.  
 
-### Chef de projet en transformation numérique, Heart Agency  
+### Chef de projet digital, Agence Digitale  
 **Sep 2020 – Juin 2022**  
-- **Mise en relation client** : Préparation de support d’avant-vente.
-- **Intégration** : Développement d’outils web optimisés (majoritairement en WordPress).
-- **Design de projet** : Développement applicatif (Laravel, MySQL).
-- **Activation du plan d'animation client** : Déploiement de campagnes CRM (emailing, SMS, automation) en fonction des segments clients et de leur cycle de vie.
+- **Support client** : Participation à l’avant-vente et préparation de supports pour les prospects.  
+- **Développement web** : Conception et optimisation de solutions web (frameworks modernes).  
+- **Développement applicatif** : Conception d’applications utilisant des technologies back-end et bases de données relationnelles.  
+- **Marketing automation** : Déploiement de campagnes CRM (emailing, SMS) adaptées aux cycles de vie client.  
 
-### Administrateur CRM et outil omnicanaux de marketing, Villa Kahina  
+### Administrateur CRM, Secteur Hôtellerie  
 **Nov 2018 – Sep 2020**  
-- **Intégration du système de gestion hôtelier (Cloudbeds)**.
-- **Formation** : Formation des commerciaux et des supports en relation client à l’utilisation du CRM.
-- **Gestion des campagnes marketing et communication** : Conception et mise en œuvre de promotions, envoi d'emails ciblés, suivi des interactions utilisateurs et analyse des performances pour optimiser l'engagement.
-- **Analyse et reporting** : Suivi des KPIs des campagnes et élaboration de pistes d'amélioration pour optimiser les
-performances.
+- **Intégration de solutions de gestion** : Déploiement et configuration de systèmes de gestion spécifiques à l'industrie.  
+- **Formation utilisateurs** : Formation des équipes commerciales à l’utilisation d’outils CRM et omnicanaux.  
+- **Gestion de campagnes marketing** : Conception et envoi de communications ciblées pour maximiser l’engagement des clients.  
+- **Analyse et reporting** : Suivi des indicateurs de performance et recommandations pour optimiser les campagnes.
 
 ---
 ## Langues et Compétences IT
