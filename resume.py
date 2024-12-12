@@ -11,14 +11,10 @@ api_key = os.getenv("OPENAI_API_KEY")
 # prompt (assuming that you entered below your resume and job desciption)
 prompt = f"""
 I am looking for an application mentioning one of the following titles: "Business Analyst Salesforce or CRM, CRM Project Manager, CRM Product Owner, CRM Consultant."
-
 Below, I have included the details of the job offer as well as my CV, and I would like you to analyze how my experience and skills align with the requirements of the position, as well as what I need to demonstrate during interviews to prove my ability to fulfill this role.
-
 Please identify the key qualifications and responsibilities in the job description and assess how my background supports them. Highlight the specific skills, achievements, or experiences from my CV that are most relevant to the role.
-
 Also, write me a concise cover letter (maximum 30 lines) to support my application for this position, considering that my name is "Add your name here".
 ---
-
 
 
 ### Here is the job description to analyze and identify all relevant requirements and skills for the application:
@@ -26,28 +22,19 @@ THE JOB DESCRIPTION :
 X is Europe's leading freelancing platform with one clear mission: to give people the freedom to choose who they work with. Co-founded in 2013, X is a tech company with a human approach that helps companies and freelancers make the perfect match.
 
 It is a marketplace that embraces a community of over 700,000 freelancers and over 70,000 clients, ranging from small and medium-sized enterprises to large corporations. More than just a connector, our marketplace streamlines freelancer-client communications, simplifies administrative and legal tasks, expedites invoicing and payments, and so much more.
-
 We are all about giving both freelancers and companies choice and added peace of mind, so that every experience on X is nothing less than (inter)stellar.
 
 ✨ X is also…
-
 - a tech company with a human approach
-
 - a company with a strong culture fueled by 700 employees from 40+ nationalities, working from 9 countries all around Europe - Germany, Belgium, United Arab Emirates, Spain, France, Netherlands, Nordic countries, United Kingdom, and Switzerland.
-
 - committed to creating a safe and inclusive space where every employee can thrive both personally and professionally
-
 - committed to equality and diversity (50% of People managers are women)
-
 - a company with strong career path policies allowing all employees to develop and grow equally
-
 
 Join us on Planet, we need you to help us write this next chapter! 🪐
 
 At X we believe that Ambition is the Way, so all lists of missions and responsibilities are non-exhaustive.
-
 Explore your future career  🔭
-
 As the CRM & Marketing Ops Lead, you will be responsible for leading a team to manage and optimize our marketing operations and CRM processes. Your role will involve empowering sales teams, enhancing activation and retention strategies, and ensuring teams operational excellence.
 
 Key responsibilities ✨
@@ -83,49 +70,51 @@ Languages: Fluency in English and French as you will work in both languages
 
 ### Here is my CV Markdown:
 
-## Expérience Professionnelle
+## Professional Experience
 
-### Consultant CRM, Société de Conseil International (Industrie Pharmaceutique)  
+### CRM Consultant, International Consulting Firm (Pharma Industry)  
 **Jan 2024 – Sep 2024**  
-- **Ateliers de découverte et collecte de besoins** : Animation d’ateliers avec les parties prenantes pour définir les processus métiers et recueillir les besoins fonctionnels et techniques.  
-- **Conception et déploiement de solutions CRM** : Mise en place d'un environnement CRM pour plusieurs pays afin de répondre aux besoins des utilisateurs.  
-- **Documentation des exigences** : Rédaction des exigences fonctionnelles et intégration des données pour assurer la livraison du projet.  
-- **Collaboration technique et métier** : Coordination avec les équipes métier et technique pour garantir des configurations conformes aux attentes.  
-- **Démo des solutions** : Présentation des solutions développées aux parties prenantes pour valider leur adéquation aux besoins.  
-- **Suivi des formations** : Accompagnement des utilisateurs finaux lors du déploiement du CRM dans différents pays.  
+- **Workshops and requirements gathering**: Led workshops with stakeholders to define business processes and gather functional and technical requirements.  
+- **CRM design and deployment**: Implemented CRM environments for multiple countries (Poland, Romania, Greece) to meet user needs.  
+- **Requirements documentation**: Authored functional specifications and integrated data to ensure project delivery.  
+- **Technical and business collaboration**: Coordinated with business and technical teams to ensure configurations met requirements.  
+- **Solution demonstrations**: Presented developed solutions to stakeholders to validate alignment with needs.  
+- **Training support**: Supported CRM training for users in five countries (Poland, Romania, Greece, Brazil, and Mexico).  
 
-### Consultant CRM, Cabinet de Conseil en Transformation Digitale (Assurance)  
+### CRM Consultant, Digital Transformation Firm (Insurance Sector)  
 **Nov 2022 – Dec 2023**  
-- **Analyse des besoins et user stories** : Identification des besoins métiers et traduction en user stories pour les équipes techniques.  
-- **Ateliers de collecte des besoins** : Animation d’ateliers pour définir les processus métiers et recueillir les besoins fonctionnels.  
-- **Développement de solutions CRM** : Conception de parcours utilisateurs et déploiement de fonctionnalités CRM adaptées (gestion commerciale, parrainage, etc.).  
-- **Gestion Agile** : Suivi des projets via des réunions régulières (daily, weekly, copil, coproj).  
-- **Collaboration technique** : Coordination avec les développeurs pour garantir la qualité des livrables.  
-- **Contrôle qualité** : Validation des livrables techniques avant mise en production.  
+- **Needs analysis and user stories**: Translated business needs into functional and technical specifications as user stories.  
+- **Workshops and requirements gathering**: Conducted workshops to define business processes and collect functional requirements.  
+- **CRM and marketing solutions design**: Designed Salesforce solutions tailored to client needs (e.g., sales journeys, lead conversion, referral programs).  
+- **Agile project management**: Managed daily stand-ups, weekly reviews, and project governance meetings (copil, coproj).  
+- **Team collaboration**: Worked closely with developers to ensure accurate solution configurations.  
+- **Quality control**: Verified technical deliverables to ensure quality and compliance before deployment.  
 
-### Chef de projet digital, Agence Digitale  
-**Sep 2020 – Juin 2022**  
-- **Support client** : Participation à l’avant-vente et préparation de supports pour les prospects.  
-- **Développement web** : Conception et optimisation de solutions web (frameworks modernes).  
-- **Développement applicatif** : Conception d’applications utilisant des technologies back-end et bases de données relationnelles.  
-- **Marketing automation** : Déploiement de campagnes CRM (emailing, SMS) adaptées aux cycles de vie client.  
+### Digital Project Manager, Digital Agency  
+**Sep 2020 – Jun 2022**  
+- **Client engagement**: Prepared presales materials for prospective clients.  
+- **Web development**: Designed and optimized web tools (mainly WordPress).  
+- **App development**: Built applications using frameworks like Laravel and MySQL.  
+- **Customer engagement campaigns**: Executed CRM campaigns (email, SMS, automation) aligned with customer segmentation and lifecycle.  
 
-### Administrateur CRM, Secteur Hôtellerie  
+### CRM Administrator, Hospitality Sector  
 **Nov 2018 – Sep 2020**  
-- **Intégration de solutions de gestion** : Déploiement et configuration de systèmes de gestion spécifiques à l'industrie.  
-- **Formation utilisateurs** : Formation des équipes commerciales à l’utilisation d’outils CRM et omnicanaux.  
-- **Gestion de campagnes marketing** : Conception et envoi de communications ciblées pour maximiser l’engagement des clients.  
-- **Analyse et reporting** : Suivi des indicateurs de performance et recommandations pour optimiser les campagnes.
+- **System integration**: Deployed and configured hotel management systems (e.g., Cloudbeds).  
+- **Training**: Trained sales and customer service teams on CRM usage.  
+- **Marketing campaign management**: Planned and executed targeted promotions via email and tracked user interactions.  
+- **Analysis and reporting**: Monitored campaign KPIs and developed recommendations to improve engagement and performance.
+
 
 ---
-## Langues et Compétences IT
-- **Langues** : Français (courant), Arabe (langue maternelle), Anglais (courant)
-- **Compétences IT** : SOQL, HTML, CSS, PHP
----
-## Expérience et Réalisations Complémentaires
-- **5x Certifications Salesforce** : Associate, Admin, App Builder, Sales Cloud, IA Associate
-- **+12 projets numériques réalisés** 
+## Languages and IT Skills  
+- **Languages**: French (fluent), Arabic (native), English (fluent)  
+- **IT Skills**: SOQL, HTML, CSS, PHP  
 
+---
+
+## Additional Experience and Achievements  
+- **5x Salesforce Certifications**: Associate, Admin, App Builder, Sales Cloud, IA Associate  
+- **12+ Digital Projects Delivered**  
 """
 
 # make api call
