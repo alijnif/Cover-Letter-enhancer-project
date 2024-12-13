@@ -1,4 +1,4 @@
 openai
-python3
+python
 os
 python-dotenv
