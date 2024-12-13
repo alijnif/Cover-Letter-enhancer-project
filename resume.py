@@ -18,52 +18,67 @@ Also, write me a concise cover letter (maximum 30 lines) to support my applicati
 
 
 ### Here is the job description to analyze and identify all relevant requirements and skills for the application:
-THE JOB DESCRIPTION :
-X is Europe's leading freelancing platform with one clear mission: to give people the freedom to choose who they work with. Co-founded in 2013, X is a tech company with a human approach that helps companies and freelancers make the perfect match.
+Job Title: Senior Salesforce Consultant – Digital Transformation Specialist
+Company Name: Fiction Solutions
+Location: Paris, France (Hybrid)
+Type: Full-Time
 
-It is a marketplace that embraces a community of over 700,000 freelancers and over 70,000 clients, ranging from small and medium-sized enterprises to large corporations. More than just a connector, our marketplace streamlines freelancer-client communications, simplifies administrative and legal tasks, expedites invoicing and payments, and so much more.
-We are all about giving both freelancers and companies choice and added peace of mind, so that every experience on X is nothing less than (inter)stellar.
+About Us
+Fiction Solutions is a boutique consultancy specializing in Salesforce implementation, CRM optimization, and digital transformation for enterprises in healthcare, insurance, and hospitality sectors. With a focus on delivering value-driven solutions, we empower businesses to enhance customer experiences and streamline operations through innovative technology and tailored strategies.
 
-✨ X is also…
-- a tech company with a human approach
-- a company with a strong culture fueled by 700 employees from 40+ nationalities, working from 9 countries all around Europe - Germany, Belgium, United Arab Emirates, Spain, France, Netherlands, Nordic countries, United Kingdom, and Switzerland.
-- committed to creating a safe and inclusive space where every employee can thrive both personally and professionally
-- committed to equality and diversity (50% of People managers are women)
-- a company with strong career path policies allowing all employees to develop and grow equally
+At Fiction Solutions, we pride ourselves on fostering a collaborative environment where expertise, passion, and ambition drive exceptional results.
 
-Join us on Planet, we need you to help us write this next chapter! 🪐
+About the Role
+As a Senior Salesforce Consultant at Fiction Solutions, you will play a pivotal role in designing and delivering Salesforce solutions across diverse industries. You will work closely with clients to understand their business needs, lead implementation projects, and drive digital transformation strategies.
 
-At X we believe that Ambition is the Way, so all lists of missions and responsibilities are non-exhaustive.
-Explore your future career  🔭
-As the CRM & Marketing Ops Lead, you will be responsible for leading a team to manage and optimize our marketing operations and CRM processes. Your role will involve empowering sales teams, enhancing activation and retention strategies, and ensuring teams operational excellence.
+Responsibilities
 
-Key responsibilities ✨
+Discovery & Requirements Gathering:
 
-CRM databases cleaning, enrichment and segmentation:
-Identify and implement strategies to enrich our clients databases with relevant data points using 3rd party tools like Clay, FullEnrich, Lusha…
-Works closely with the Growth & Data Engineering team to design, develop, and maintain data pipelines, automations and integrations.
-Activation and Retention Strategies:
-Set up and improve activation and retention workflows for clients and freelancers through tests and experiments.
-Collaborate with Sales, Marketing, and Freelance teams to implement new business solutions.
-KPIs: number of tests deployed, Customer activation rate, retention rate, email campaign performance.
-Sales Teams Empowerment and Lead Management:
-Manage inbound processes: Define MQL criteria, funnel steps, and harmonize processes.
-Develop and optimize lead generation strategies, including automatic database enrichment, lead scoring, etc.
-KPIs: Lead conversion rate, lead qualification accuracy, database enrichment rate.
-Tool Administration and Reporting:
-Own the marketing tools stack and serve as the point of contact for Data/Ops on technical topics, manage and optimize Hubspot properties, and provide training on marketing tools usage.
-Create dashboards on Hubspot and Excel for marketing and freelancer teams.
-Conduct regular performance analysis on email performance, deliverability, and inbound performance.
-KPIs: Report accuracy, tool utilization rate, bug resolution time.
-About you 🧑‍🚀
+Lead discovery workshops to identify client needs, define business processes, and gather technical and functional requirements.
+Salesforce Implementation & Customization:
 
-5-8 years of experience in marketing, growth, or operations within a tech company or startup.
-Proficient in CRM tools (Hubspot, Salesforce).
-Familiarity with technical tools (API, data, NoCode automation platforms like Zapier or Make, scripting languages like Python)
-Strong collaboration skills with the ability to work with multiple teams.
-Demonstrated leadership and ability to drive internal change.
-Rigorous and committed to implementing reliable and sustainable processes.
-Languages: Fluency in English and French as you will work in both languages
+Design, configure, and deploy Salesforce solutions, ensuring alignment with client objectives.
+Oversee CRM deployments across multiple countries and business units, adapting to localized requirements.
+Project Management & Agile Delivery:
+
+Manage end-to-end project lifecycles, including sprint planning, task delegation, and progress tracking.
+Host daily stand-ups, sprint reviews, and retrospectives to ensure timely delivery.
+Data Integration & Reporting:
+
+Define data models, manage integrations with external systems, and ensure data accuracy.
+Develop and present dashboards, KPIs, and reports tailored to client requirements.
+Training & Change Management:
+
+Facilitate user training sessions to ensure smooth adoption of Salesforce tools.
+Provide ongoing support and documentation to empower client teams.
+Collaboration:
+
+Coordinate with technical teams, developers, and business stakeholders to guarantee successful implementations.
+Key Qualifications
+
+5+ years of experience as a Salesforce Consultant or CRM specialist in industries like healthcare, insurance, or hospitality.
+Proven expertise in Salesforce implementation across multiple modules (e.g., Sales Cloud, Service Cloud).
+Strong knowledge of Agile project management methodologies and tools.
+Technical proficiency with CRM tools, SOQL, APIs, and automation platforms like Zapier or Make.
+Demonstrated ability to analyze business needs and translate them into actionable solutions.
+Strong collaboration and communication skills, with experience in managing diverse teams and stakeholders.
+Salesforce certifications (e.g., Admin, App Builder, Sales Cloud, or equivalent).
+Preferred Skills
+
+Experience in marketing automation tools and customer journey mapping.
+Familiarity with NoCode tools and scripting languages like Python.
+Multilingual capabilities (Fluent in French, English, and Arabic preferred).
+Perks & Benefits
+
+Competitive salary with performance-based bonuses.
+Flexible working environment (hybrid setup).
+Opportunity to lead impactful projects for top-tier clients.
+Professional development budget and Salesforce certification sponsorship.
+A vibrant, inclusive company culture with regular team-building events.
+How to Apply
+Submit your CV and a cover letter showcasing how your expertise aligns with Fiction Solutions’ mission and the responsibilities of this role.
+
 
 
 ---
